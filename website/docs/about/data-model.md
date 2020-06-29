@@ -25,7 +25,7 @@ to derive any type of monitoring data from it.
 ## Event Types
 
 Vector defines subtypes for events. This is necessary to establish domain
-specific requriements enabling interoperability with existing monitoring and
+specific requirements enabling interoperability with existing monitoring and
 observability systems.
 
 <Jump to="/docs/about/data-model/log/">Log</Jump>
